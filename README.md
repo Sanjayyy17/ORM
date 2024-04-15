@@ -43,7 +43,8 @@ list_display=('eid','name','salary','age','email')
 
 ## OUTPUT
 
-![Screenshot (59)](https://github.com/Sanjayyy17/ORM/assets/151901260/29dc9ba8-7976-4ee2-be79-7f80b36ea2e8)
+![django](https://github.com/Sanjayyy17/ORM/assets/151901260/8beca293-9714-48b6-8a4a-8e41081f97f4)
+
 
 
 
